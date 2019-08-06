@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1250" ?> 
+<TecajnaLista>
+  <Valuta>
+    <Drzava>Australija</Drzava> 
+    <Oznaka>AUD</Oznaka> 
+    <Sfr>036</Sfr> 
+    <Jedinica>1</Jedinica>
+    <Iznos>4.385692</Iznos> 
+  </Valuta>
+  <Valuta>
+    <Drzava>Japan</Drzava> 
+    <Oznaka>YPY</Oznaka> 
+    <Sfr>392</Sfr> 
+    <Jedinica>100</Jedinica>
+    <Iznos>4.704524</Iznos> 
+  </Valuta>
+  <Valuta>
+    <Drzava>Velika Britanija</Drzava> 
+    <Oznaka>GBP</Oznaka> 
+    <Sfr>826</Sfr> 
+    <Jedinica>1</Jedinica>
+    <Iznos>10.960638</Iznos> 
+  </Valuta>
+  <Valuta>
+    <Drzava>USA</Drzava> 
+    <Oznaka>USD</Oznaka> 
+    <Sfr>840</Sfr> 
+    <Jedinica>1</Jedinica>
+    <Iznos>5.570351</Iznos> 
+  </Valuta>
+  <Valuta>
+    <Drzava>EU</Drzava> 
+    <Oznaka>EUR</Oznaka> 
+    <Sfr>978</Sfr> 
+    <Jedinica>1</Jedinica>
+    <Iznos>7.357876</Iznos> 
+  </Valuta>
+</TecajnaLista>
